@@ -94,6 +94,11 @@ main {
   flex-grow: 2;
 }
 
+#portfolio-image {
+  height: 500px; 
+  width: auto;
+}
+
 .project-details {
   display: flex;
   background-color: white;
